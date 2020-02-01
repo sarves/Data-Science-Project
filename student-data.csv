@@ -1,0 +1,25 @@
+First Name,Last Name,Email,Phone,Mobile,Lead Source,Lead Status,Salutation,School Attended,NIC Number,Gender,Date of Birth,House type,Postal Town,Applied Date,A/L Year,General English,GIT,A/L Resutls,A/L Stream,Father’s educational background,Mother’s educational background,Father’s occupation category,Mother’s occupation category,Vehicles owned by family,Extracurricular Activities and Achievements,Mode of transport to attend Uki,Approx. Annual Income of the Family
+First Name,Last Name,some1@gmail.com,123456789,123456790,Advertisement,,Ms.,some school,121212121V,Female,1993-01-04,Rent,somewhere1,2017-03-03,,S,A,"Biology - S
+ICT - S 
+General Eng - S 
+General IT - A",Biological Science,O/L,O/L,"Skilled agricultural, forestry and fishery workers",,,Athletic,Bus,5000
+First Name,Last Name,some2@gmil.com,123456790,123456791,,,Mr.,some school,121212122V,Male,1996-05-18,Own house,somewhere2,2019-03-01,,F,A,"Combined Mathematics - C
+Physics - C 
+Chemistry - C
+General English - F 
+General IT - A",Physical Science,,,Clerical support workers,,Motorcycle,,Bus,20000
+First Name,Last Name,some3@gmail.com,123456791,123456792,Teachers,,Ms.,some school,121212123V,Female,1997-02-22,Own house,somewhere3,2017-03-06,,F,B,"Bio-system Technology - S 
+ICT - S
+Technological Science - S
+General English - F 
+General IT - B",Bio-system Technology,O/L,O/L,Elementary occupations,,,,Bus,50000
+First Name,Last Name,some4@gmail.com,123456792,123456793,Web Research,,Mr.,some school,121212124V,Male,1997-10-23,Own house,somewhere4,2017-10-05,2016,C,B,"Science for technology - F
+Bio system technology - Absent
+ICT - F
+General English - C
+General IT  - B",Bio-system Technology,O/L,O/L,Craft and related trades workers,,Motorcycle,Games,Bus,250000
+First Name,Last Name,some5@gmail.com,123456793,123456794,Advertisement,,Ms.,some school,121212125V,Female,1997-07-30,Own house,somewhere5,2017-10-12,2016,C,A,"Bio Technology - C
+Science for Technology - S
+ICT -  F
+General English - C
+General IT - A",Bio-system Technology,A/L,Diploma,Clerical support workers,Professionals,Motorcycle,Sports,Motorcycle,650000
